@@ -1,19 +1,19 @@
 ascribe		v.归功于
 assignment		n.作业；分配
-assimilate		v.吸收
+assimilate		v.吸收		__simil
 attendant		n.侍者 a.伴随的
 attendance		n.出席，出席人数
-augment			v.提高increase
-automaton		n.自动机robot
+augment			v.提高increase		__aug
+automaton		n.自动机robot		__mat
 automat		n.自动售货机
 automatic		a.自动的
 automation		n.自动化
-autonomy		n.自治
-anonymity		n.无名，匿名
-autonomous		a.自治的
-anonymous		a.匿名的
-avert		v.prevent
-aviation		n.航空学		学科
+autonomy		n.自治		__nomy
+anonymity		n.无名，匿名		__onym
+autonomous		a.自治的		__nomy
+anonymous		a.匿名的		__onym
+avert		v.prevent		__vert
+aviation		n.航空学		学科		__avi
 baffle		v.使困惑puzzle,bewilder
 baggage		n.行李
 luggage		n.行李
@@ -29,9 +29,9 @@ assault		v.攻击attack
 assert		v.断言
 astonish		v.使惊讶
 astronomy		n.天文学		学科
-atmosphere		n.气氛，大气
+atmosphere		n.气氛，大气		__phere
 authentic		a.真正的
 authorize		v.授权
 axis		n.轴
 bachelor		n.学士；单身汉
-bankrupt		a.v.破产
+bankrupt		a.v.破产		__rupt

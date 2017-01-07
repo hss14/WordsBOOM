@@ -1,8 +1,8 @@
 chorus		n.合唱团
-chronic		a.慢性的，长期的
-chronology		n.年代学
-synchronize		v.同时发生
-asynchronous		a.异步的
+chronic		a.慢性的，长期的		__chron
+chronology		n.年代学		__chron
+synchronize		v.同时发生		__chron
+asynchronous		a.异步的		__chron
 clarity		n.clearness
 clasp		v.抓紧grip
 clap		n.v.鼓掌
@@ -19,9 +19,9 @@ clockwise		a.ad.顺时针的
 counterclockwise		a.ad.逆时针的
 cluster		n.簇 v.丛生，聚集
 clutch		n.掌控，离合器 v.抓紧
-coherent		a.连贯的logical
-cohere		v.连贯，粘着
-incoherence		n.不连贯
-adherent		n.皈依者
+coherent		a.连贯的logical		__here
+cohere		v.连贯，粘着		__here
+incoherence		n.不连贯		__here
+adherent		n.皈依者		__here
 civilization		n.文明，文化
 client		n.客户

@@ -3,12 +3,12 @@ bypass		v.绕过
 cabin		n.船舱；小屋
 cottage		n.乡舍
 canvas		n.帆布，画布
-captive		n.俘虏
-capture		v.俘获
-captor		n.捕获者
-captious		a.挑剔的
-caption		n.字幕，说明
-captcha		n.验证码
+captive		n.俘虏		__capt
+capture		v.俘获		__capt
+captor		n.捕获者		__capt
+captious		a.挑剔的		__capt
+caption		n.字幕，说明		__capt
+captcha		n.验证码		__capt
 cargo		n.货物
 freight		n.货物
 carpenter		n.木匠
