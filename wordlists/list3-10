@@ -1,10 +1,10 @@
 plank		n.厚板board panel
-polygon		n.多边形		数学
+polygon		n.多边形		__poly,gon		数学
 protein		n.蛋白质		生物
-quadrilateral		n.a.四边形(的)		数学
+quadrilateral		n.a.四边形(的)		__quadri		数学
 religion		n.宗教
-restore		v.恢复
-ridge		n.山脊 分水岭
+restore		v.恢复		__re,store
+ridge		n.山脊 分水岭		地理
 serene		a.平静的
 shore		n.海岸
 coast		n.海岸
@@ -14,12 +14,12 @@ scene		n.景象
 spur		n.策马刺 v.激励 鞭策
 stature		n.(人的)身材 身长；重要性 名望
 stub		n.残端 蒂 票根
-surplus		n.a.过剩 顺差(的)
+surplus		n.a.过剩 顺差(的)		__sur,plus
 statue		n.雕像
-territory		n.领土 领域
+territory		n.领土 领域		__terr
 thrust		n.v.侧向推力
-transformation		n.变革
-terrorist		n.恐怖分子
+transformation		n.变革		__trans,form
+terrorist		n.恐怖分子		__terror
 triumph		n.v.胜利
 urban		a.城市的
 vast		a.广阔的 大量的

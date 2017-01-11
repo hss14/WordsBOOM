@@ -5,9 +5,9 @@ vary		v.使变化alter
 ware		n.物品
 widow		n.寡妇
 zinc		n.锌Zn		化学
-artifact		n.人造品，人为现象
+artifact		n.人造品，人为现象		__art
 wizard		n.男巫 向导程序 奇才
-autobiography		n.自传
+autobiography		n.自传		__auto,bio,graph
 bark		n.树皮 v.剥皮 n.v.狗吠
 bend		v.弯曲
 witch		n.v.女巫
@@ -18,7 +18,7 @@ cartoon		n.卡通
 bent		a.弯曲的 驼背的
 circuit		n.电路 回路；巡回 周游
 broad		a.宽的
-compose		v.组成；创作
+compose		v.组成；创作		__com,pos
 congestion		n.拥挤 充血
 board		n.板子 甲板 董事会 v.上飞机
 cube		n.立方体 三次幂
