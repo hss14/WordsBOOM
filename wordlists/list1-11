@@ -1,8 +1,8 @@
 ascribe		v.归功于
 assignment		n.作业；分配
 assimilate		v.吸收		__simil
-attendant		n.侍者 a.伴随的
-attendance		n.出席，出席人数
+attendant		n.侍者 a.伴随的		__tend
+attendance		n.出席，出席人数		__tend
 augment			v.提高increase		__aug
 automaton		n.自动机robot		__mat
 automat		n.自动售货机
@@ -29,7 +29,7 @@ assault		v.攻击attack
 assert		v.断言
 astonish		v.使惊讶
 astronomy		n.天文学		学科
-atmosphere		n.气氛，大气		__phere
+atmosphere		n.气氛，大气		__sphere
 authentic		a.真正的
 authorize		v.授权
 axis		n.轴

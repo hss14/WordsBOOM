@@ -12,16 +12,16 @@ cod		n.鳕鱼		动植物
 squeak		n.v.短促的尖叫，吱吱声
 Antarctic		a.n.南极(的)		地名
 arctic		a.n.北极(的)		地名
-appendix		n.阑尾		人体器官
+appendix		n.阑尾		人体器官		__pend
 applaud		v.鼓掌clap
 application		n.申请，应用
-appraisal		n.assessment
-appraise		v.assess
-appraiser		n.评价者
-praise		n.v.赞扬
+appraisal		n.assessment		__prais
+appraise		v.assess		__prais
+appraiser		n.评价者		__prais
+praise		n.v.赞扬		__prais
 appreciable		a.巨大的，值得重视的
 depreciate		v.贬值，降低
-apprehension		n.worry		__prehen
-apprehend		v.逮捕，忧虑		__prehen
-reprehend		n.v.指责		__prehen
+apprehension		n.worry		__prehens
+apprehend		v.逮捕，忧虑		__prehend
+reprehend		n.v.指责		__prehend
 apt		a.恰当的，易于的

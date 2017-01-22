@@ -4,13 +4,13 @@ inflict		v.造成(坏事)cause		__flict
 ingenious		a.有独创性的clever		__gen
 ingenuity		n.独创性the quality of being 独创 聪明		__gen
 ingenuous		a.天真的 坦率的		__gen
-inhabit		v.居住dwell
-inhabitant		n.居民dweller
-habitat		n.栖息地
-inhabitation		n.居住行为
-habitation		n.居住行为
+inhabit		v.居住dwell		__habit
+inhabitant		n.居民dweller		__habit
+habitat		n.栖息地		__habit
+inhabitation		n.居住行为		__habit
+habitation		n.居住行为		__habit
 inherent		a.内在的 固有的intrinsic		__here
-inherit		v.继承		__herit
+inherit		v.继承		__her
 inhibit		v.阻止 抑制		__hibit
 inject		v.注入		__ject
 innumerable		a.无数的
